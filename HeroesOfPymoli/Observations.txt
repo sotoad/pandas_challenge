@@ -1,0 +1,12 @@
+Much of the results from the data can be summed up into three observations: 
+
+1) Younger people, between the ages 15-24, seem to be the biggest customers. If you narrow this further, 
+those that are between 20-24, take up a bit over a third of all total unique sales count from this data. 
+
+2) Even though Males take up 84% of all sales, along with the highest Total Purchase Value, they have the 
+lowest Average Purchase Price ($3.02) and Average Total Purchase Per Person ($4.07) compared to Females and Other/Non-Disclosed. 
+ 
+3) Item "Final Critic" seems like the most popular product. Based on this, one would think to 
+market this product heavily to Males that are between 20-24 since they seems to be the biggest purchasers by volume. 
+However, based on the information above, you would have to be careful since the "Final Critic" sales price is higher than the 
+average price this group likes to purchase from.
